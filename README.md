@@ -1,2 +1,4 @@
 # hello-world
-Monday branch. Why I was unable to merge this to the master?
+the README file of Tuesday Branch. 
+
+Let's try to merge the Tuesday branch to the master.
