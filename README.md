@@ -1,4 +1,5 @@
 # hello-world
-the README file of Tuesday Branch. 
 
-Let's try to merge the Tuesday branch to the master.
+Ok, managed to create two different branches, make changes to them, commit and open pull requests.
+
+Also merging the changes to the master branch was a success.
